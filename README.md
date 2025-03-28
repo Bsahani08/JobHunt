@@ -1,50 +1,82 @@
-ONLINE JOB PORTAL USING REACT AND SANITY
+# JobHunt - Job Search and Application Platform
 
+A modern job search platform built with React that allows users to browse job listings, save favorite jobs, and apply for positions.
 
-This website is all about searching the top jobs from top-reputed companies all over the world.
-It has additional functionalities of searching and filter jobs on based of their job role or experience.
-Further more it has a form where a company user who wants to add their job on to our site can fill the form and add it.
-Next, it has an option where a student/user can save the job by clicking on bookmark icon.
+## Features
 
+### Job Listings
+- Display job cards with company information and job details
+- Pagination with 10 jobs per page
+- Search functionality to filter jobs
+- Filter jobs by:
+  - Job Type (Full-time, Part-time, Contract, Internship)
+  - Location (Remote, On-site, Hybrid)
+  - Salary Range
 
-Now one surprise section added is of discussion Chamber which is connected with Sanity(Headless CMS).
-A text-editor is added with functionalities of bold,italic,etc and image section where a user can just upload an image or can copy any image address from wherever and it will automatically preview image according to the type of input url using regex.
-User can reply the same thing as well at the same time.
+### Job Details
+- Detailed view of each job posting
+- Company information with logo
+- Job description, requirements, and responsibilities
+- Save job functionality
+- Apply Now button with application status tracking
+- Meta information display (Location, Salary, Job Type)
 
-This website is fullt responsive..
+### Saved Jobs
+- Save favorite job listings
+- View all saved jobs in a dedicated section
+- Remove jobs from saved list
+- Persistent storage using localStorage
 
-Visit the Website https://jobhunt-bice.vercel.app/
+### Job Application
+- Apply for jobs through a dedicated form
+- Track application status
+- View all applied jobs
+- Application history persistence
 
+## Tech Stack
 
+### Frontend
+- React.js
+- React Router for navigation
+- Redux for state management
+- CSS3 for styling
+- React Icons for UI elements
 
+### APIs & Storage
+- JSONPlaceholder API for job data
+- localStorage for data persistence
 
-Home Page
+### Development Tools
+- Create React App
+- Git for version control
+- npm/yarn for package management
 
-![Screenshot 2023-01-28 at 8 49 15 PM](https://user-images.githubusercontent.com/114575434/215274848-ce9787c7-8bdc-43c5-9f58-f7862b4cecd7.png)
+## Setup and Installation
 
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/JobHunt.git
+```
 
-Jobs Page
+2. Navigate to the project directory:
+```bash
+cd JobHunt
+```
 
-![Screenshot 2023-01-28 at 8 47 22 PM](https://user-images.githubusercontent.com/114575434/215274857-f2aefecd-f349-4c8c-b703-0c4ad410159a.png)
+3. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
 
+4. Start the development server:
+```bash
+npm start
+# or
+yarn start
+```
 
+5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Job Category Filter
-
-
-![Screenshot 2023-01-28 at 8 47 22 PM](https://user-images.githubusercontent.com/114575434/215274869-908a1630-83c9-44c6-bf37-dfb76262a895.png)
-
-
-
-
-
-
-
-
-Tools and Technology Used:-
-
-1.HTML CSS AND JS
-2.React JS
-3.Sanity for Backend.
-4.VS Code
-5.Vercel for deployment.
+## Project Structure
