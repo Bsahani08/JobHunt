@@ -124,3 +124,8 @@ jobhunt/
 ├── public/
 └── README.md
 ```
+
+## 🤝 Contributing :
+
+Feel free to fork the repo, raise issues, submit pull requests, or send carrier pigeons — we accept all forms of contribution.
+
