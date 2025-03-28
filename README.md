@@ -10,10 +10,10 @@ Here are a few screenshots of the JobHunt platform in action:
 
 <p float="left">
   <img src="src/Assets/page1.png" width="700" alt="Homepage Screenshot" />
-  <img src="src/Assets/page2.png" width="500" alt="Job Listing Screenshot" />
-  <img src="src/Assets/page3.png" width="500" alt="Job Details Screenshot" />
-  <img src="src/Assets/page4.png" width="500" alt="Saved Jobs Screenshot" />
-  <img src="src/Assets/page5.png" width="500" alt="Application Status Screenshot" />
+  <img src="src/Assets/page2.png" width="700" alt="Job Listing Screenshot" />
+  <img src="src/Assets/page3.png" width="700" alt="Job Details Screenshot" />
+  <img src="src/Assets/page4.png" width="700" alt="Saved Jobs Screenshot" />
+  <img src="src/Assets/page5.png" width="700" alt="Application Status Screenshot" />
 </p>
 
 ---
