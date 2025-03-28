@@ -73,29 +73,31 @@ Here are a few screenshots of the JobHunt platform in action:
 
 ## 🧪 Setup and Installation
 
-### Navigate to the project directory:
+### 1) Clone the Repository
+
+```bash
+git clone https://github.com/Bsahani08/JobHunt.git
+```
+
+### 2) Navigate to the project directory:
 
 ```bash
 cd JobHunt
 ```
 
-### Install dependencies:
+### 3) Install dependencies:
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
-### Start the development server:
+### 4) Start the development server:
 
 ```bash
-npm start
-# or
-yarn start
+npm run start
 ```
 
-### Open in browser:
+### 5) Open in browser:
 [http://localhost:3000](http://localhost:3000)
 
 ---
@@ -122,14 +124,3 @@ jobhunt/
 ├── public/
 └── README.md
 ```
-
----
-
-## 📌 Notes
-
-- Ensure the image filenames and extensions match exactly (e.g., `page1.png`, not `page1.PNG`).
-- All screenshot images should be added and committed to `src/Assests/` in the repository for them to display correctly on GitHub.
-
----
-
-Just copy and paste this into your `README.md`, and you’re good to go. Let me know if you'd like to add a live demo, deployment instructions, or contributor info!
