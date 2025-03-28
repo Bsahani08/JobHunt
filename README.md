@@ -125,6 +125,23 @@ jobhunt/
 └── README.md
 ```
 
+--- 
+
+## ✨ Additional Improvements
+Here are a few ideas to enhance the JobHunt platform further:
+
+🌐 Multi-language Support – Enable localization for a global user base.
+
+🔔 Notification System – Alert users on application status changes or job expiration.
+
+👤 User Authentication – Add login/signup with email or social providers.
+
+🧠 AI Job Recommendations – Suggest jobs based on user behavior and preferences.
+
+💼 Company Profiles – Add detailed profiles for companies with ratings and reviews.
+
+--- 
+
 ## 🤝 Contributing :
 
 Feel free to fork the repo, raise issues, submit pull requests, or send carrier pigeons — we accept all forms of contribution.
